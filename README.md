@@ -1,1 +1,2 @@
-# Mini-Project
+자바스크립트로 미니 프로젝트
+1. time out program
