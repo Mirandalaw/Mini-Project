@@ -9,3 +9,7 @@
 
 3. Express로 웹사이트 만들기
    : 프레임워크 express 사용하여 만들기
+
+   : Get & Post
+
+   : Router 
