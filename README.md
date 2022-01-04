@@ -13,3 +13,5 @@
    : Get & Post
 
    : Router 
+
+   : static serving -> click event
