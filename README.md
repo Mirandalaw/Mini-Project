@@ -15,3 +15,17 @@
    : Router 
 
    : static serving -> click event
+
+4. WebSocket을 통한 실시간 인터렉션 만들기
+
+   Frontend 
+   
+    - Template engine : Pug
+    - CSS framework : TailWindCSS
+
+
+   Backend
+    
+    - Web framework : Koa
+    - Live networking : koa-websocket
+    - Database : MongoDB
