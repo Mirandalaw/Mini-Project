@@ -11,8 +11,8 @@
    : 프레임워크 express 사용하여 만들기
 
    : Get & Post
-      - Get : 
-      - Post :
+      - Get : '/
+      - Post : 
    : Router 
 
    : static serving -> click event
