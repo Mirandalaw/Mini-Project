@@ -30,3 +30,5 @@
     - Web framework : Koa
     - Live networking : koa-websocket
     - Database : MongoDB
+
+5. 회원가입 창 만들기 
